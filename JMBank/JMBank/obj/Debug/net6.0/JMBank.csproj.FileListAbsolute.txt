@@ -1,0 +1,15 @@
+C:\Users\johnn\source\repos\JMBank\JMBank\bin\Debug\net6.0\JMBank.exe
+C:\Users\johnn\source\repos\JMBank\JMBank\bin\Debug\net6.0\JMBank.deps.json
+C:\Users\johnn\source\repos\JMBank\JMBank\bin\Debug\net6.0\JMBank.runtimeconfig.json
+C:\Users\johnn\source\repos\JMBank\JMBank\bin\Debug\net6.0\JMBank.dll
+C:\Users\johnn\source\repos\JMBank\JMBank\bin\Debug\net6.0\JMBank.pdb
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.csproj.AssemblyReference.cache
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.AssemblyInfoInputs.cache
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.AssemblyInfo.cs
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.csproj.CoreCompileInputs.cache
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.dll
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\refint\JMBank.dll
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.pdb
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\JMBank.genruntimeconfig.cache
+C:\Users\johnn\source\repos\JMBank\JMBank\obj\Debug\net6.0\ref\JMBank.dll
